@@ -21,7 +21,11 @@ mechanism to compensate for ViTs’ deficiency in incorporating local informatio
 -Experimental results on 4 kinds of downstream tasks, including 16 benchmark datasets, demonstrate the superiority of the proposed LORE method.
 
 ## Datasets
-CIFAR-100, Imagenet-100, Tiny-Imagenet, and  Imagenet-1000. 
+For the classification task, we conducted experiments on three kinds of datasets: (1) Natural datasets: CIFAR-10, CIFAR-100, DTD, and ImageNet. (2) Fine-grained datasets: Flowers102, Stanford-Cars, FGVCAircraft, and StanfordDogs. (3) Specialized datasets: EuroSAT, Resisc45, UCF101, and Pattern. 
+
+The comprehensive statistics of the classification datasets are presented in this Table. For StanfordDogs, CIFAR-10, CIFAR-100, DTD, ImageNet, Resisc45, and Pattern, we followed the official dataset split strategy. For Flowers102, StanfordCars, Aircraft, EuroSAT, and UCF, we followed the split strategy used in CoOp. 
+
+![image](https://github.com/Mysteriousplayer/KGPT/blob/main/dataset.png)
 
 ## Installation
 Install all requirements required to run the code on a Python 3.x by:
@@ -34,7 +38,6 @@ All commands should be run under the project root directory.
 
 ```
 sh run.sh
-
 ```
 ## Results
 Results will be saved in log/.  
