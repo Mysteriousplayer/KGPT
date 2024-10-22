@@ -42,6 +42,9 @@ sh run.sh
 ## Results
 Results will be saved in log/.  
 
+## Limitations
+Our LORE aims to enhance the adaptation of pre-trained ViTs to downstream tasks. Therefore, the primary objective of our experimental design is to validate the effectiveness of pre-trained ViTs in adapting to downstream tasks. To ensure comprehensive evaluations, we compared our LORE with several effective and representative PET methods, including CoOp, Co-CoOp, Maple, ProGrad, Clip-adapter, and VPT. Some of these methods have demonstrated outstanding performance in domain generalization and cross-dataset transfer evaluations using pre-trained CLIP models. However, it is important to note that domain generalization and cross-dataset transfer evaluations assess the CLIP-based model’s generalization ability, which is beyond the scope of this study. We would like to further investigate the generalization ability problem in future work.
+
 ## Citation
 If you found our work useful for your research, please cite our work:
 ```
