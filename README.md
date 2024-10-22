@@ -1,5 +1,5 @@
 # LORE
-Enhancing Pre-trained ViTs for Downstream Task Adaptation: A Locality-Aware Prompt Learning Method[ACM MM 24]
+Enhancing Pre-trained ViTs for Downstream Task Adaptation: A Locality-Aware Prompt Learning Method [ACM MM 24]
 
 Paper link: [https://openreview.net/forum?id=x7NIbrZ42w&noteId=x7NIbrZ42w]
 
