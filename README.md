@@ -25,7 +25,7 @@ For the classification task, we conducted experiments on three kinds of datasets
 
 The comprehensive statistics of the classification datasets are presented in this Table. For StanfordDogs, CIFAR-10, CIFAR-100, DTD, ImageNet, Resisc45, and Pattern, we followed the official dataset split strategy. For Flowers102, StanfordCars, Aircraft, EuroSAT, and UCF, we followed the split strategy used in CoOp. 
 
-![image](https://github.com/Mysteriousplayer/KGPT/blob/main/dataset.png)
+![image](https://github.com/Mysteriousplayer/KGPT/blob/main/dataset_v1.png)
 
 ## Installation
 Install all requirements required to run the code on a Python 3.x by:
