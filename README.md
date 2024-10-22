@@ -1,7 +1,7 @@
-# POLO-NECIL
+# LORE
 Enhancing Pre-trained ViTs for Downstream Task Adaptation: A Locality-Aware Prompt Learning Method[ACM MM 24]
 
-Paper link: [https://dl.acm.org/doi/10.1145/3581783.3611926](https://openreview.net/forum?id=x7NIbrZ42w&noteId=x7NIbrZ42w) 
+Paper link: [https://openreview.net/forum?id=x7NIbrZ42w&noteId=x7NIbrZ42w]
 
 
 ## Abstract
