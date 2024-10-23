@@ -61,3 +61,7 @@ numpages = {}
 We thank the following repo providing helpful functions in our work. 
 
 DINO: https://github.com/facebookresearch/dino
+
+Teaching Matters: Investigating the Role of Supervision in Vision Transformers: https://github.com/mwalmer-umd/vit_analysis
+
+ViG: https://github.com/huawei-noah/Efficient-AI-Backbones/tree/master/vig_pytorch
