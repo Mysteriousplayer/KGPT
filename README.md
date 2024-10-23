@@ -60,4 +60,4 @@ numpages = {}
 ```
 We thank the following repo providing helpful functions in our work. 
 
-xxxxxxx
+DINO: https://github.com/facebookresearch/dino
