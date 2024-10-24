@@ -48,7 +48,8 @@ After downloading the datasets you need, you can use this command to obtain trai
 sh data_processing.sh
 ```
 
-For example, after obtaining the eth_cars_8.npy (StanfordCars dataset, easy-to-hard classification task, 8/stage), you can copy its path to the corresponding config file (cars_h8.json "new_dir").  
+For example, after obtaining the eth_cars_8.npy (StanfordCars dataset, easy-to-hard classification task, 8/stage), you can copy its path to the corresponding config file (cars_cnet_h8.json "new_dir").  
+
 ## Results
 Results will be saved in log/.  
 
