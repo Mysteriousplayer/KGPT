@@ -68,6 +68,8 @@ pages = {},
 numpages = {}
 }
 ```
+
+## Acknowledgments
 We thank the following repo providing helpful functions in our work. 
 
 DINO: https://github.com/facebookresearch/dino
