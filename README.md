@@ -42,11 +42,13 @@ sh run.sh
 ```
 
 ## Training
-After downloading the datasets you need, using this command to obtain samples used in  few-shot and  easy-to-hard classification task.
+After downloading the datasets you need, you can use this command to obtain training samples used in few-shot and easy-to-hard classification task.
 
 ```
 sh data_processing.sh
 ```
+
+For example, after obtaining the eth_cars_8.npy (StanfordCars dataset, easy-to-hard classification task, 8/stage), you can copy its path to the corresponding config file (cars_h8.json "new_dir").  
 ## Results
 Results will be saved in log/.  
 
