@@ -29,7 +29,7 @@ The comprehensive statistics of the classification datasets are presented in thi
 ![image](https://github.com/Mysteriousplayer/KGPT/blob/main/dataset_v1.png)
 
 <div align=center>
-<img src="[https://github.com/Mysteriousplayer/KGPT/blob/main/dataset_v1.png]"/>
+<img src="https://github.com/Mysteriousplayer/KGPT/blob/main/dataset_v1.png">
 </div>
 
 
