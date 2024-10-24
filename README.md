@@ -38,14 +38,14 @@ Install all requirements required to run the code on a Python 3.x by:
 All commands should be run under the project root directory. 
 
 ```
-sh run.sh
+sh data_processing.sh
 ```
 
 ## Training
 After downloading the datasets you need, you can use this command to obtain training samples used in few-shot and easy-to-hard classification task.
 
 ```
-sh data_processing.sh
+sh run.sh
 ```
 
 For example, after obtaining the eth_cars_8.npy (StanfordCars dataset, easy-to-hard classification task, 8/stage), you can copy its path to the corresponding config file (cars_cnet_h8.json "new_dir").  
