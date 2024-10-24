@@ -30,15 +30,22 @@ The comprehensive statistics of the classification datasets are presented in thi
 
 ## Installation
 Install all requirements required to run the code on a Python 3.x by:
-> First, activate a new conda environment.
+> First, you need activate a new conda environment.
 > 
 > pip install -r requirements.txt
 
-## Training
+## Data processing
 All commands should be run under the project root directory. 
 
 ```
 sh run.sh
+```
+
+## Training
+After downloading the datasets you need, using this command to obtain samples used in  few-shot and  easy-to-hard classification task.
+
+```
+sh data_processing.sh
 ```
 ## Results
 Results will be saved in log/.  
