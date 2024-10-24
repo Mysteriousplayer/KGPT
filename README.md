@@ -28,6 +28,8 @@ The comprehensive statistics of the classification datasets are presented in thi
 
 ![image](https://github.com/Mysteriousplayer/KGPT/blob/main/dataset_v1.png)
 
+For example, after obtaining the StanfordCars dataset, you can copy its path to the corresponding config file (cars_cnet_xx.json "data_path").
+
 ## Installation
 Install all requirements required to run the code on a Python 3.x by:
 > First, you need activate a new conda environment.
