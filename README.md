@@ -69,8 +69,8 @@ author = {Wang, Shaokun and Yu, Yifan and He, Yuhang and Gong, Yihong},
 title = {Enhancing Pre-trained ViTs for Downstream Task Adaptation: A Locality-Aware Prompt Learning Method},
 year = {2024},
 booktitle = {Proceedings of the 32nd ACM International Conference on Multimedia},
-pages = {},
-numpages = {}
+pages = {797–806},
+numpages = {10}
 }
 ```
 
