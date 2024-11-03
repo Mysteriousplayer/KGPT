@@ -1,9 +1,11 @@
 # LORE
 Enhancing Pre-trained ViTs for Downstream Task Adaptation: A Locality-Aware Prompt Learning Method [ACM MM 24]
 
-Paper link: [https://openreview.net/forum?id=x7NIbrZ42w&noteId=x7NIbrZ42w]
+Paper link: [https://dl.acm.org/doi/10.1145/3664647.3680983]
 
 A poster of the paper has been uploaded.
+
+A version with an appendix has been uploaded. 
 
 ## Abstract
 > Vision Transformers (ViTs) excel in extracting global information from image patches. However, their inherent limitation lies in effectively extracting information within local regions, hindering their applicability and performance. Particularly, fully supervised pre-trained ViTs,such as VanillaViT and CLIP, face thechallenge of locality vanishing when adapting to downstream tasks. To address this, we introduce a novel LOcality-aware pRompt lEarning (LORE) method, aiming to improve the adaptation of pre-trained ViTs to downstreamtasks. LORE integrates a data-driven Black Box module (i.e., a pre-trained ViT encoder) with a knowledge-driven White Box module. The White Box module is a locality-aware prompt learning
